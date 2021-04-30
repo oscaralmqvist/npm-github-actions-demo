@@ -1,6 +1,6 @@
 {
   "name": "npm-github-actions-demo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A demo package showing how one could use Github Actions to test and publish it to NPM.",
   "main": "calculator.js",
   "repository": "git@github.com:oscaralmqvist/npm-github-actions-demo.git",
